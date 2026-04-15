@@ -384,7 +384,7 @@ Ce projet est développé dans un cadre éducatif au Lycée Élisa Lemonnier.
 
 ## 📝 Changelog
 
-### Version 1.0.0 (2024)
+### Version 1.0.0 (2026)
 - ✅ Page d'accueil avec animations
 - ✅ Navigation smooth scroll
 - ✅ Sections : Histoire, Mission, Équipe, Impact, Contact
